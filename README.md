@@ -22,5 +22,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="html" width="40" height="40"/>&nbsp;
 
-![shake gif](https://raw.githubusercontent.com/stpstudent/stpstudent/output/ocena.svg#gh-dark-mode-only)
+![shake gif](https://raw.githubusercontent.com/stpstudent/stpstudent/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![light snake gif](https://raw.githubusercontent.com/stpstudent/stpstudent/output/github-contribution-grid-snake.svg#gh-light-mode-only)
